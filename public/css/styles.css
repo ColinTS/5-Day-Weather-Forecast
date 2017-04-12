@@ -1,0 +1,33 @@
+body {
+  background: rgba(54, 25, 25, .5) url(/nk.jpg);
+}
+
+h1{
+  text-align: center;
+}
+
+#resourceId {
+  width: 30%;
+  height: 40px;
+  margin: 0 auto;
+  margin-top: 1px;
+}
+
+#showWeather {
+  width: 15%;
+  height: 40px;
+  margin: 0 auto;
+  margin-top: 5px;
+}
+
+#entry {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 2%;
+}
+
+.contentDiv {
+  display: flex;
+  justify-content: center;
+}
